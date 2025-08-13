@@ -1,10 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="23px" height="22px" preserveAspectRatio="xMinYMid meet" viewBox="900 3178  23 20" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <mask fill="white" id="clip152">
-      <path d="M 756 3202  L 816 3202  L 816 3230  L 756 3230  Z M 655 3177  L 929 3177  L 929 3248  L 655 3248  Z " fill-rule="evenodd" />
-    </mask>
-  </defs>
-  <path d="M 655 3245.5  L 781 3245.5  A 5 5 0 0 0 786.5 3240.5 L 786.5 3193  A 5 5 0 0 1 791.5 3188.5 L 911 3188.5  " stroke-width="3" stroke="#d9001b" fill="none" mask="url(#clip152)" />
-  <path d="M 909 3197.4  L 918 3188.5  L 909 3179.6  L 909 3197.4  Z " fill-rule="nonzero" fill="#d9001b" stroke="none" mask="url(#clip152)" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="23px" height="22px" preserveAspectRatio="xMinYMid meet" viewBox="2195 736  23 20" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 2108 805.5  L 2155 805.5  A 5 5 0 0 0 2160.5 800.5 L 2160.5 751  A 5 5 0 0 1 2165.5 746.5 L 2206 746.5  " stroke-width="3" stroke="#d9001b" fill="none" />
+  <path d="M 2204 755.4  L 2213 746.5  L 2204 737.6  L 2204 755.4  Z " fill-rule="nonzero" fill="#d9001b" stroke="none" />
 </svg>
